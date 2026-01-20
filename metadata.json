@@ -1,0 +1,7 @@
+{
+  "name": "Local Gesture AI",
+  "description": "本地 WebGPU 手势识别系统，基于 MediaPipe。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
